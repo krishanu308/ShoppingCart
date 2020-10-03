@@ -1,5 +1,6 @@
 # ShoppingCart
 Assignment for shoppingCart module
+
 #About Project
 
 This module is part of shopping cart application where we are trying to 
