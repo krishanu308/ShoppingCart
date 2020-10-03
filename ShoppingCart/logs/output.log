@@ -1,0 +1,26 @@
+10-02-2020 13:34:39: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$1500.0
+10-02-2020 13:34:39: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$13500.0
+10-02-2020 13:34:39: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$4200.0
+10-02-2020 13:34:39: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$15800.0
+10-02-2020 13:35:00: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$500.0
+10-02-2020 13:35:00: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$6500.0
+10-02-2020 13:35:00: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$4200.0
+10-02-2020 13:35:00: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$15800.0
+10-02-2020 13:35:38: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$500.0
+10-02-2020 13:35:38: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$6500.0
+10-02-2020 13:35:38: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$5700.0
+10-02-2020 13:35:38: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$19300.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$400.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$3600.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$1000.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$7000.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$1800.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$10200.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$4200.0
+10-02-2020 13:37:21: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$15800.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$0.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$5000.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$500.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$9500.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$1500.0
+10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$13500.0
