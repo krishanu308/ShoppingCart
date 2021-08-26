@@ -4,7 +4,7 @@ This module is part of shopping cart application where we are trying to
 calculate the discount for different types of customer based on their purchase. We have discount
 defined for each slab based on the customer type.
 
-#Some important points about the project
+#Some important  key points about the project
 
 1. I have used property files to loosely couple any addition of benefits related to slab and discount.
 

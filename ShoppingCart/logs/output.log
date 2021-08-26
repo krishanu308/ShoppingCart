@@ -24,3 +24,7 @@
 10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$9500.0
 10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$1500.0
 10-02-2020 13:37:27: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$13500.0
+07-29-2021 16:21:34: [DEBUG] RegularCustomer.java:59 - Total Discount for Regular customer:$500.0
+07-29-2021 16:21:34: [DEBUG] RegularCustomer.java:61 - Final amount that needs to be paid by regular customer after discount:$6500.0
+07-29-2021 16:21:34: [DEBUG] PremiumCustomer.java:60 - Total Discount for Premium customer:$5700.0
+07-29-2021 16:21:34: [DEBUG] PremiumCustomer.java:62 - Final amount that needs to be paid by premium customer after discount:$19300.0

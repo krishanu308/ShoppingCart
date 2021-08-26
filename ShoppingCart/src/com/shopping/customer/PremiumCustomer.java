@@ -57,7 +57,7 @@ public class PremiumCustomer extends Customer{
 			}
 		}
 		
-		logger.debug("Total Discount for Premium customer:$"+disCountAmt);
+		logger.debug("Total Discount for Premium customer registered for shopping cart:$"+disCountAmt);
 		customerFinalAmt = totalPurchaseAmt - disCountAmt;
 		logger.debug("Final amount that needs to be paid by premium customer after discount:$"+customerFinalAmt);
 		return customerFinalAmt;
